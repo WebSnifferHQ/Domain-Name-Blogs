@@ -1,6 +1,6 @@
 # Domain Name Blogs
 
-A list of domain name and domaining related blogs.
+A curated collection of top blogs and websites dedicated to domain name news, insights, and trends.
 
 - https://circleid.com/
 - https://domaingang.com/
