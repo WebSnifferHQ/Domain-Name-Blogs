@@ -6,3 +6,4 @@ A curated collection of top blogs and websites dedicated to domain name news, in
 - https://domaingang.com/
 - https://domaininvesting.com/
 - https://domainnamewire.com/
+- https://www.thedomains.com/
