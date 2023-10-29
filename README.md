@@ -7,3 +7,4 @@ A curated collection of top blogs and websites dedicated to domain name news, in
 - https://domaininvesting.com/
 - https://domainnamewire.com/
 - https://www.thedomains.com/
+- https://onlinedomain.com/
